@@ -8,3 +8,7 @@ $ mosquitto -c mosquittoWFDAI.conf
   - Exemplo web client com base eclipse paho 
   
   
+
+´
+
+
